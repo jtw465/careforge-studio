@@ -1,0 +1,22 @@
+<svg width="220" height="220" viewBox="0 0 220 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">CareForge Studio Logo</title>
+  <desc id="desc">A heart-shaped home with two people held in a supportive hand.</desc>
+
+  <rect width="220" height="220" rx="42" fill="#0F4C5C"></rect>
+
+  <path d="M110 59 C87 30 40 42 40 87 C40 132 83 158 110 182 C137 158 180 132 180 87 C180 42 133 30 110 59Z" fill="none" stroke="#FAFAF8" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"></path>
+
+  <path d="M72 108 L110 73 L148 108" fill="none" stroke="#FAFAF8" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"></path>
+  <path d="M85 110 V146 H135 V110" fill="none" stroke="#FAFAF8" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"></path>
+
+  <rect x="101" y="113" width="9" height="9" fill="#FAFAF8"></rect>
+  <rect x="113" y="113" width="9" height="9" fill="#FAFAF8"></rect>
+  <rect x="101" y="126" width="9" height="9" fill="#FAFAF8"></rect>
+  <rect x="113" y="126" width="9" height="9" fill="#FAFAF8"></rect>
+
+  <circle cx="88" cy="141" r="12" fill="#FAFAF8"></circle>
+  <circle cx="132" cy="141" r="12" fill="#FAFAF8"></circle>
+  <path d="M67 169 C86 150 119 153 151 169" fill="none" stroke="#FAFAF8" stroke-width="14" stroke-linecap="round"></path>
+  <path d="M55 177 C86 199 136 199 169 165" fill="none" stroke="#157A6E" stroke-width="18" stroke-linecap="round"></path>
+  <path d="M154 183 C166 174 176 158 181 140" fill="none" stroke="#D4A017" stroke-width="8" stroke-linecap="round"></path>
+</svg>
